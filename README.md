@@ -11,7 +11,10 @@ clone this project using git, then install docker and docker compose
 in the docker-compose.yml file folder
 
 ```
-docker-compose build # to build
-docker-compose up # to start
+docker-compose build 
+# to build
+
+docker-compose up 
+# to start
 
 ```
