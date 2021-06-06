@@ -9,6 +9,7 @@ MiniWallet is made for API testing purpose
 ## Installation
 clone this project using git, then install docker and docker compose
 go to the docker-compose.yml file folder in root of the project
+Try it out
 
 ```
 docker-compose build 
